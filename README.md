@@ -57,7 +57,7 @@
 - Uptime : 16 years
 - Kernel : Student
 
-- Languages.programming : HTML; Python; JSON; LaTeX
+- Languages.programming : HTML; Python; JSON; LaTeX; JS
 - Languages.Real : French, English, German
 
 - Hobbies.tech : AI; ML; Selfhosting
